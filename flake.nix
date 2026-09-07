@@ -5,12 +5,12 @@
     nixpkgs.url = "github:NixOS/nixpkgs/nixpkgs-unstable";
     flake-utils.url = "github:numtide/flake-utils";
     flake-lib = {
-      url = "github:jgus/flake-lib/v1";
+      url = "github:jgus-org/flake-lib/v1";
       inputs.nixpkgs.follows = "nixpkgs";
       inputs.flake-utils.follows = "flake-utils";
     };
     tokenizers = {
-      url = "github:jgus/tokenizers-flake";
+      url = "github:jgus-org/tokenizers-flake";
       inputs.nixpkgs.follows = "nixpkgs";
       inputs.flake-utils.follows = "flake-utils";
       inputs.flake-lib.follows = "flake-lib";
@@ -57,7 +57,7 @@
                 {
                   reqName = "tokenizers";
                   pypiName = "tokenizers";
-                  flakeRepo = "jgus/tokenizers-flake";
+                  flakeRepo = "jgus-org/tokenizers-flake";
                   mode = "resolve";
                 }
               ];
