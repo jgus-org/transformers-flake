@@ -1,6 +1,6 @@
 {
-  version = "5.17.0";
-  hash = "sha256-oVO+J5FptVuS2AAL9K8pSu1oRQPQkcyngE2i3Yqd4AA=";
+  version = "5.16.1";
+  hash = "sha256-F7DqxybdxV6ErFiUYGPgxtN/0ADEVrWB8FDqD06CKGk=";
   dependencies = {
     "tokenizers" = "v0.23";
   };
