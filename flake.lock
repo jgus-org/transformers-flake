@@ -10,11 +10,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1789674197,
-        "narHash": "sha256-6dOROv8ql9PAP2ET9TaTLLEI2FAnIWCXKyuSElDb7PQ=",
+        "lastModified": 1789755220,
+        "narHash": "sha256-+0oUIfwO+8XXoZfMKw45jQ8a1+pVawH9ULD1hZJtfxs=",
         "owner": "jgus-org",
         "repo": "flake-lib",
-        "rev": "8ed776af25c5695c72712c39fe2077ac23e85066",
+        "rev": "6b75336447852e88fd765d0e80438f083ca1a592",
         "type": "github"
       },
       "original": {
@@ -94,11 +94,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1789733244,
-        "narHash": "sha256-lOXvsL5Iy65ZPx5+DWWlxRgFp/Yx4E23ssILYfX4Ttk=",
+        "lastModified": 1789818625,
+        "narHash": "sha256-JvnJlVm67qwS2KbIsuiqwbDH7At2+wCv5kTTr9UxIg8=",
         "owner": "jgus-org",
         "repo": "tokenizers-flake",
-        "rev": "f86a7af63369f622ea5ba09d5dc747c3cedfec24",
+        "rev": "3ebd6a2f05aea276f9a7efce84bc167f000ccd83",
         "type": "github"
       },
       "original": {
